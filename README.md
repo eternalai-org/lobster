@@ -32,7 +32,9 @@ Lobster is open source. If you know the terminal and have a 3D printer, it is a 
 
 If you don't want to do it yourself, the easiest way is to buy a Lobster [on our site](https://eternalai.org/lobster).
 
-## Plug and Play
+It's pre-installed and pre-configured so it works out of the box.
+
+## Plug and play
 
 Get Lobster up and running in minutes.
 
