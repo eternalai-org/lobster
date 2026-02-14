@@ -1,16 +1,22 @@
+<img src="https://github.com/eternalai-org/lobsters/raw/main/lobster.gif">
+
 # The open source OpenClaw hardware device
 
-[Lobster](https://eternalai.org/lobster) is an easy, affordable, and fun way to set up OpenClaw at home. Talk to it like texting a friend to handle your emails, manage your calendar, and build apps for you.
+[Lobster](https://eternalai.org/lobster) is an easy, affordable, and fun way to set up OpenClaw at home. 
+
+Lobster upgrades your OpenClaw setup with a dedicated hardware device:
 
 - **🔌 Plug & play:** Plug in, connect WiFi, then talk to it — it's that easy
+- **🕓 24/7:** It has its own computer and always run
+- **🛡️ Secure by design:** It has its own browser & file systems and never touches yours
 - **🔒 Private by default:** Your data never leaves your Lobster device
-- **🛡️ Secure by design:** It has its own computer and never touches your computer & data
+
+OpenClaw runs on Lobster, so you get all the things you love about OpenClaw:
+
 - **📱 Any chat app:** Talk to it on WhatsApp, Telegram, Discord, Slack, Signal, or iMessage
 - **🧠 Persistent memory:** It remembers your conversations and becomes uniquely yours
 - **🧩 Skills & plugins:** Extend with community skills or build your own
-
-
-<img src="https://github.com/eternalai-org/lobsters/raw/main/lobster.gif">
+- **💪 AI that actually does things:** Clears your inbox, sends emails, manages your calendar, checks you in for flights
 
 ## DIY
 
