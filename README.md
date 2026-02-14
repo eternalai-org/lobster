@@ -1,5 +1,3 @@
-![block2-lobster](https://github.com/user-attachments/assets/82a6616b-e8e0-46a5-9486-165360741661)
-
 # The open source OpenClaw hardware device
 
 [Lobster](https://eternalai.org/lobster) is an easy, affordable, and fun way to set up OpenClaw at home. 
@@ -48,7 +46,7 @@ Lobster is secure by design.
 
 It has its own computer, its browser to browse the web, and its own file system to run shell commands.
 
-![lobsterbanner-bottom](https://github.com/user-attachments/assets/25c33de7-8229-43f3-92cf-738cb80366a5)
+![block2-lobster](https://github.com/user-attachments/assets/82a6616b-e8e0-46a5-9486-165360741661)
 
 ## Specs
 - **CPU:** Broadcom BCM2712 2.4GHz quad-core 64-bit Arm Cortex-A76
