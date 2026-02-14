@@ -68,10 +68,12 @@ For beginners, we recommend to start with Raspberry Pi 5.
 - **Connectivity:** Wi-Fi 5, Bluetooth 5.0
 - **Power:** 5V/5A DC power via USB-C
 
-If advanced users, we recommend to build a dedicated Nvidia box that can run local AI inferences for total privacy.
+For advanced users, we recommend to build a dedicated Nvidia box that can run local AI inferences for total privacy. 
 
 - **GPU:** 2-4 x 5090
 - **RAM:** 256-512 GB
-- **Disk:** 1 TB 
+- **Disk:** 1 TB
+
+At Eternal AI, we set up our own Nvidia boxes. Happy to open source our Nvidia box setup too if there is enough interest.
 
 <img width="1120" height="1080" alt="tech-2" src="https://github.com/user-attachments/assets/7fcfdd90-4dac-4bf0-a862-cc85934f62c0" />
