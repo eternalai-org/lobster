@@ -1,11 +1,11 @@
 # The open source OpenClaw hardware device
 
-[Lobster](https://eternalai.org/lobster) is an easy, affordable, and fun way to set up OpenClaw at home. 
+[Lobster](https://eternalai.org/lobster) is an easy, affordable, and fun way to set up OpenClaw at home.
 
 Lobster upgrades your OpenClaw setup with a dedicated hardware device:
 
 - **🔌 Plug & play:** Plug in, connect WiFi, then talk to it — it's that easy
-- **🕓 24/7:** It has its own computer and always run
+- **🕓 24/7:** It has its own computer and always runs
 - **🛡️ Secure by design:** It has its own browser & file systems and never touches yours
 - **🔒 Private by default:** Your data never leaves your Lobster device
 
