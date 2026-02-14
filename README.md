@@ -58,7 +58,7 @@ It has its own computer, its browser to browse the web, and its own file system 
 
 ## Specs
 
-For starter, we recommend to start with Raspberry Pi 5. 
+For beginners, we recommend to start with Raspberry Pi 5. 
 
 - **CPU:** Broadcom BCM2712 2.4GHz quad-core 64-bit Arm Cortex-A76
 - **RAM:** 8GB LPDDR4X-4267
@@ -66,7 +66,7 @@ For starter, we recommend to start with Raspberry Pi 5.
 - **Connectivity:** Wi-Fi 5, Bluetooth 5.0
 - **Power:** 5V/5A DC power via USB-C
 
-If advanced user, we recommend to set up a dedicated Nvidia box that can run local AI inferences.
+If advanced users, we recommend to build a dedicated Nvidia box that can run local AI inferences for total privacy.
 
 - **GPU:** 2-4 x 5090
 - **RAM:** 256-512 GB
