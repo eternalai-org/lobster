@@ -11,10 +11,18 @@ Lobster upgrades your OpenClaw setup with a dedicated hardware device:
 
 OpenClaw runs on Lobster, so you get all the things you love about OpenClaw:
 
-- **📱 Any chat app:** Talk to it on WhatsApp, Telegram, Discord, Slack, Signal, or iMessage
+- **📱 Any chat app:** Talk to it on WhatsApp, Telegram, Discord, Slack, or iMessage
 - **🧠 Persistent memory:** It remembers your conversations and becomes uniquely yours
 - **🧩 Skills & plugins:** Extend with community skills or build your own
 - **💪 AI that actually does things:** Handles your emails, manages your calendar, checks in flights
+
+![block2-lobster](https://github.com/user-attachments/assets/82a6616b-e8e0-46a5-9486-165360741661)
+
+## Plug and Play
+
+Get Lobster up and running in minutes.
+
+Plug it in, connect it to WiFi, then talk to it on Telegram, Whatsapp, Discord, Slack or iMessage — it's that easy.
 
 <img src="https://github.com/eternalai-org/lobsters/raw/main/lobster.gif">
 
@@ -46,7 +54,7 @@ Lobster is secure by design.
 
 It has its own computer, its browser to browse the web, and its own file system to run shell commands.
 
-![block2-lobster](https://github.com/user-attachments/assets/82a6616b-e8e0-46a5-9486-165360741661)
+![photo_2026-02-05_17-23-38](https://github.com/user-attachments/assets/0f7d1e48-d374-44a8-83f3-d241a6e879bf)
 
 ## Specs
 
