@@ -14,7 +14,7 @@ OpenClaw runs on Lobster, so you get all the things you love about OpenClaw:
 - **📱 Any chat app:** Talk to it on WhatsApp, Telegram, Discord, Slack, Signal, or iMessage
 - **🧠 Persistent memory:** It remembers your conversations and becomes uniquely yours
 - **🧩 Skills & plugins:** Extend with community skills or build your own
-- **💪 AI that actually does things:** Clears your inbox, sends emails, manages your calendar, checks you in for flights
+- **💪 AI that actually does things:** Handles your emails, manages your calendar, checks in flights
 
 <img src="https://github.com/eternalai-org/lobsters/raw/main/lobster.gif">
 
