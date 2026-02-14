@@ -11,7 +11,7 @@
 
 ## 📽️ Lobster in Action
 <p align="center">
-  <img src="https://github.com/eternalai-org/lobsters/raw/main/lobster.gif" width="600" alt="Lobster Demo GIF">
+  <img src="https://github.com/eternalai-org/lobster/raw/main/lobster.gif" width="600" alt="Lobster Demo GIF">
 </p>
 <p align="center"><i>Lobster automates your tasks with physical precision.</i></p>
 
