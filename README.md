@@ -16,14 +16,6 @@ OpenClaw runs on Lobster, so you get all the things you love about OpenClaw:
 - **🧩 Skills & plugins:** Extend with community skills or build your own
 - **💪 AI that actually does things:** Handles your emails, manages your calendar, checks in flights
 
-![block2-lobster](https://github.com/user-attachments/assets/82a6616b-e8e0-46a5-9486-165360741661)
-
-## Plug and Play
-
-Get Lobster up and running in minutes.
-
-Plug it in, connect it to WiFi, then talk to it on Telegram, Whatsapp, Discord, Slack or iMessage — it's that easy.
-
 <img src="https://github.com/eternalai-org/lobsters/raw/main/lobster.gif">
 
 ## DIY
@@ -40,13 +32,21 @@ Lobster is open source. If you know the terminal and have a 3D printer, it is a 
 
 If you don't want to do it yourself, the easiest way is to buy a Lobster [on our site](https://eternalai.org/lobster).
 
+## Plug and Play
+
+Get Lobster up and running in minutes.
+
+Plug it in, connect it to WiFi, then talk to it on Telegram, Whatsapp, Discord, Slack or iMessage — it's that easy.
+
+![block2-lobster](https://github.com/user-attachments/assets/82a6616b-e8e0-46a5-9486-165360741661)
+
 ## Private
 
 Lobster is private by default. 
 
 Unlike ChatGPT, your data is not stored on a server but stored on Lobster locally.
 
-![lobsterbanner-bottom](https://github.com/user-attachments/assets/1c12087d-048a-4213-aebe-688a90eed09c)
+![photo_2026-02-05_17-23-38](https://github.com/user-attachments/assets/0f7d1e48-d374-44a8-83f3-d241a6e879bf)
 
 ## Secure
 
@@ -54,7 +54,7 @@ Lobster is secure by design.
 
 It has its own computer, its browser to browse the web, and its own file system to run shell commands.
 
-![photo_2026-02-05_17-23-38](https://github.com/user-attachments/assets/0f7d1e48-d374-44a8-83f3-d241a6e879bf)
+![lobsterbanner-bottom](https://github.com/user-attachments/assets/1c12087d-048a-4213-aebe-688a90eed09c)
 
 ## Specs
 
