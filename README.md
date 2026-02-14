@@ -54,7 +54,7 @@ Unlike running OpenClaw on a cloud service, your data is not stored on a 3rd-par
 
 Lobster is secure by design.
 
-It has its own computer, its browser to browse the web, and its own file system to run shell commands.
+It has its own computer, its browser to browse the web, and its own file system to run shell commands. It never touches your computer and your data.
 
 ![lobsterbanner-bottom](https://github.com/user-attachments/assets/1c12087d-048a-4213-aebe-688a90eed09c)
 
