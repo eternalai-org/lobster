@@ -1,4 +1,4 @@
-<img src="https://github.com/eternalai-org/lobsters/raw/main/lobster.gif">
+![block2-lobster](https://github.com/user-attachments/assets/82a6616b-e8e0-46a5-9486-165360741661)
 
 # The open source OpenClaw hardware device
 
@@ -18,6 +18,8 @@ OpenClaw runs on Lobster, so you get all the things you love about OpenClaw:
 - **🧩 Skills & plugins:** Extend with community skills or build your own
 - **💪 AI that actually does things:** Clears your inbox, sends emails, manages your calendar, checks you in for flights
 
+<img src="https://github.com/eternalai-org/lobsters/raw/main/lobster.gif">
+
 ## DIY
 
 Lobster is open source. If you know the terminal and have a 3D printer, it is a fun weekend project!
@@ -31,8 +33,6 @@ Lobster is open source. If you know the terminal and have a 3D printer, it is a 
 ## Buy the kit
 
 If you don't want to do it yourself, the easiest way is to buy a Lobster [on our site](https://eternalai.org/lobster).
-
-![block2-lobster](https://github.com/user-attachments/assets/82a6616b-e8e0-46a5-9486-165360741661)
 
 ## Private
 
