@@ -1,36 +1,50 @@
-# 🦞 Lobster | The OpenClaw Device
+# The open source OpenClaw hardware device
 
-<p align="center">
-  <img src="https://eternalai.org/lobster/openclaw-thumb-1.jpg" width="800" alt="Lobster Hero Image">
-</p>
+[Lobster](https://eternalai.org/lobster) is an easy, affordable, and fun way to set up OpenClaw at home. Talk to it like texting a friend to handle your emails, manage your calendar, and build apps for you.
 
-## ⚡ Introduction
-**OpenClaw is awesome but hard to setup.**
+- **🔌 Plug & play:** Plug in, connect WiFi, then talk to it — it's that easy
+- **🔒 Private by default:** Your data never leaves your Lobster device
+- **🛡️ Secure by design:** It has its own computer and never touches your computer & data
+- **📱 Any chat app:** Talk to it on WhatsApp, Telegram, Discord, Slack, Signal, or iMessage
+- **🧠 Persistent memory:** It remembers your conversations and becomes uniquely yours
+- **🧩 Skills & plugins:** Extend with community skills or build your own
 
-**Lobster** is the plug-and-play hardware solution for running OpenClaw. No more complex configurations or endless error logs. Just plug it in, connect to WiFi, and start chatting with your personal AI on Telegram.
 
-## 📽️ Lobster in Action
-<p align="center">
-  <img src="https://github.com/eternalai-org/lobster/raw/main/lobster.gif" width="600" alt="Lobster Demo GIF">
-</p>
-<p align="center"><i>Lobster automates your tasks with physical precision.</i></p>
+<img src="https://github.com/eternalai-org/lobsters/raw/main/lobster.gif">
 
-## 🆚 Why Lobster?
+## DIY
 
-| Without Lobster ❌ | With Lobster ✅ |
-| :--- | :--- |
-| **Hours of setup.** | **Plug in. Connect WiFi. Say hi.** |
-| Hundreds of errors you won't understand. | Works with everything instantly. |
-| Complex environment configuration. | **Full OpenClaw power, zero headaches.** |
+Lobster is open source. If you know the terminal and have a 3D printer, it is a fun weekend project!
 
-## 🌟 Key Features
-- **🔌 Plug & Play:** Get up and running in minutes.
-- **🧠 Persistent Memory:** Lobster remembers your conversations and becomes uniquely yours.
-- **📱 Any Chat App:** Works seamlessly with **WhatsApp, Telegram, Discord, Slack, Signal, and iMessage**.
-- **🧩 Skills & Plugins:** Extend with community skills or build your own.
-- **🔒 Private by Default:** Your conversations **never leave your home**. All data stays on your device.
+1. 3D Print Lobster: [3MF](lobster.3mf), [STL](lobster.stl) 
+2. Buy a [Raspberry Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5/)
+3. Connect Raspberry Pi 5 to a [network](https://www.raspberrypi.com/documentation/computers/configuration.html#networking)
+4. Install [OpenClaw](https://openclaw.ai/)
+5. Set up OpenClaw [personal asssistant](https://docs.openclaw.ai/start/openclaw)
 
-## ⚙️ Tech Specs
+## Buy the kit
+
+If you don't want to do it yourself, the easiest way is to buy a Lobster [on our site](https://eternalai.org/lobster).
+
+![block2-lobster](https://github.com/user-attachments/assets/82a6616b-e8e0-46a5-9486-165360741661)
+
+## Private
+
+Lobster is private by default. 
+
+Unlike ChatGPT, your data is not stored on a server but stored on Lobster locally.
+
+![photo_2026-02-05_17-23-38](https://github.com/user-attachments/assets/352748ef-f383-4694-8f6b-67463a135e9c)
+
+## Secure
+
+Lobster is secure by design.
+
+It has its own computer, its browser to browse the web, and its own file system to run shell commands.
+
+![lobsterbanner-bottom](https://github.com/user-attachments/assets/25c33de7-8229-43f3-92cf-738cb80366a5)
+
+## Specs
 - **CPU:** Broadcom BCM2712 2.4GHz quad-core 64-bit Arm Cortex-A76
 - **RAM:** 8GB LPDDR4X-4267
 - **Storage:** 128GB microSD
@@ -38,11 +52,5 @@
 - **Power:** 5V/5A DC power via USB-C
 - **Dimensions:** 9" x 6" x 3" (228.6 x 152.4 x 76.2 mm)
 
-## 🚀 Order Now
-- **Early Bird Price:** $199 (First 100 units only)
-- **Regular Price:** $499
+<img width="1120" height="1080" alt="tech-2" src="https://github.com/user-attachments/assets/7fcfdd90-4dac-4bf0-a862-cc85934f62c0" />
 
-👉 **Get yours at:** [https://eternalai.org/lobster](https://eternalai.org/lobster)
-
----
-*Lobster — Your personal AI, running on your own hardware.*
