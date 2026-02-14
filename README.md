@@ -44,7 +44,7 @@ Plug it in, connect it to WiFi, then talk to it on Telegram, Whatsapp, Discord, 
 
 Lobster is private by default. 
 
-Unlike ChatGPT, your data is not stored on a server but stored on Lobster locally.
+Unlike running OpenClaw on a cloud service, your data is not stored on a 3rd-party server but stored locally on your Lobster.
 
 ![photo_2026-02-05_17-23-38](https://github.com/user-attachments/assets/0f7d1e48-d374-44a8-83f3-d241a6e879bf)
 
