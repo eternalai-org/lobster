@@ -38,7 +38,7 @@ Lobster is private by default.
 
 Unlike ChatGPT, your data is not stored on a server but stored on Lobster locally.
 
-![photo_2026-02-05_17-23-38](https://github.com/user-attachments/assets/352748ef-f383-4694-8f6b-67463a135e9c)
+![lobsterbanner-bottom](https://github.com/user-attachments/assets/1c12087d-048a-4213-aebe-688a90eed09c)
 
 ## Secure
 
@@ -49,12 +49,15 @@ It has its own computer, its browser to browse the web, and its own file system 
 ![block2-lobster](https://github.com/user-attachments/assets/82a6616b-e8e0-46a5-9486-165360741661)
 
 ## Specs
+
+For starter, we recommend to start with Raspberry Pi 5. 
+
 - **CPU:** Broadcom BCM2712 2.4GHz quad-core 64-bit Arm Cortex-A76
 - **RAM:** 8GB LPDDR4X-4267
 - **Storage:** 128GB microSD
 - **Connectivity:** Wi-Fi 5, Bluetooth 5.0
 - **Power:** 5V/5A DC power via USB-C
-- **Dimensions:** 9" x 6" x 3" (228.6 x 152.4 x 76.2 mm)
+
+If advanced user, we recommend to set up a dedicated Nvidia box with 2-4 x 5090 cards that can run local AI inferences.
 
 <img width="1120" height="1080" alt="tech-2" src="https://github.com/user-attachments/assets/7fcfdd90-4dac-4bf0-a862-cc85934f62c0" />
-
