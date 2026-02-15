@@ -1,6 +1,6 @@
-# Lobster: The Open Source Agentic Computer
+# Lobster: The Agentic Computer
 
-## The OpenClaw hardware device
+## The open source OpenClaw hardware device
 
 We ❤️ OpenClaw. But no easy way exists to run OpenClaw safely. So we built [Lobster](https://eternalai.org/lobster) —  a beautiful, affordable, and secure device to run OpenClaw at home (and at work too!).
 
