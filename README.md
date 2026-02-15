@@ -4,7 +4,9 @@
 
 We ❤️ OpenClaw. But no easy way exists to run OpenClaw safely. So we built [Lobster](https://eternalai.org/lobster) —  a beautiful, affordable, and secure device to run OpenClaw at home (and at work too!).
 
-**Why Lobster?**
+<img src="https://github.com/eternalai-org/lobsters/raw/main/lobster.gif">
+
+## Why Lobster?
 
 Running OpenClaw on cloud services means your data lives on someone else's server. Running OpenClaw on your personal computer means OpenClaw has access to your browser and files — that's a security risk. 
 
@@ -24,7 +26,7 @@ Lobster is the best of both worlds. It's a dedicated computer for OpenClaw — w
 - 🧩 Skills & plugins: Extend with community skills or build your own
 - 💪 AI that actually does things: Handles your emails, manages your calendar, checks in flights
 
-<img src="https://github.com/eternalai-org/lobsters/raw/main/lobster.gif">
+![block2-lobster](https://github.com/user-attachments/assets/82a6616b-e8e0-46a5-9486-165360741661)
 
 ## DIY
 
@@ -49,7 +51,7 @@ Get Lobster up and running in minutes.
 
 Plug it in, connect it to WiFi, then talk to it on Telegram, Whatsapp, Discord, Slack or iMessage — it's that easy.
 
-![block2-lobster](https://github.com/user-attachments/assets/82a6616b-e8e0-46a5-9486-165360741661)
+![lobsterbanner-bottom](https://github.com/user-attachments/assets/1c12087d-048a-4213-aebe-688a90eed09c)
 
 ## Private
 
@@ -65,7 +67,7 @@ Lobster is secure by design.
 
 It has its own computer, its browser to browse the web, and its own file system to run shell commands. It never touches your computer and your data.
 
-![lobsterbanner-bottom](https://github.com/user-attachments/assets/1c12087d-048a-4213-aebe-688a90eed09c)
+<img width="1120" height="1080" alt="tech-2" src="https://github.com/user-attachments/assets/7fcfdd90-4dac-4bf0-a862-cc85934f62c0" />
 
 ## Specs
 
@@ -85,4 +87,3 @@ For advanced users, we recommend to build a dedicated Nvidia box that can run lo
 
 At Eternal AI, we set up our own Nvidia boxes. Happy to open source our Nvidia box setup too if there is enough interest.
 
-<img width="1120" height="1080" alt="tech-2" src="https://github.com/user-attachments/assets/7fcfdd90-4dac-4bf0-a862-cc85934f62c0" />
