@@ -32,9 +32,10 @@ Lobster is open source. If you know the terminal and have a 3D printer, it is a 
 
 1. 3D Print Lobster: [3MF](lobster.3mf), [STL](lobster.stl) 
 2. Buy a [Raspberry Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5/)
-3. Connect Raspberry Pi 5 to a [network](https://www.raspberrypi.com/documentation/computers/configuration.html#networking)
-4. Install [OpenClaw](https://openclaw.ai/)
-5. Set up OpenClaw [personal asssistant](https://docs.openclaw.ai/start/openclaw)
+3. Buy microSD card and USB-C power adapter 
+4. Connect Raspberry Pi 5 to a [network](https://www.raspberrypi.com/documentation/computers/configuration.html#networking)
+5. Install [OpenClaw](https://openclaw.ai/)
+5. Set up OpenClaw [personal assistant](https://docs.openclaw.ai/start/openclaw)
 
 ## Buy the kit
 
