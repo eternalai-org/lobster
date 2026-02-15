@@ -39,7 +39,7 @@ Lobster is open source. If you know the terminal and have a 3D printer, it is a 
 5. Install [OpenClaw](https://openclaw.ai/)
 5. Set up OpenClaw [personal assistant](https://docs.openclaw.ai/start/openclaw)
 
-## Buy the kit
+## Buy Lobster
 
 If you don't want to do it yourself, the easiest way is to buy a Lobster [on our site](https://eternalai.org/lobster).
 
