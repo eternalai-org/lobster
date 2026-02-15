@@ -1,20 +1,26 @@
 # The open source OpenClaw hardware device
 
-[Lobster](https://eternalai.org/lobster) is an easy, affordable, and fun way to set up OpenClaw at home.
+We ❤️ OpenClaw. But no easy way exists to run OpenClaw safely. So we build [Lobster](https://eternalai.org/lobster) —  a beautiful, affordable, and secure way to run OpenClaw at home (and at work too!).
 
-Lobster upgrades your OpenClaw setup with a dedicated hardware device:
+**Why Lobster?**
 
-- **🔌 Plug & play:** Plug in, connect WiFi, then talk to it — it's that easy
-- **🕓 24/7:** It has its own computer and always runs
-- **🛡️ Secure by design:** It has its own browser & file systems and never touches yours
-- **🔒 Private by default:** Your data never leaves your Lobster device
+Running OpenClaw on cloud services means your data lives on someone's server. Running OpenClaw on your personal computer means OpenClaw has access to your browser and files — that's a security risk. 
 
-OpenClaw runs on Lobster, so you get all the things you love about OpenClaw:
+Lobster is the best of both worlds. It's a dedicated computer for OpenClaw. Your data stays private. Your personal computer stays safe.
 
-- **📱 Any chat app:** Talk to it on WhatsApp, Telegram, Discord, Slack, or iMessage
-- **🧠 Persistent memory:** It remembers your conversations and becomes uniquely yours
-- **🧩 Skills & plugins:** Extend with community skills or build your own
-- **💪 AI that actually does things:** Handles your emails, manages your calendar, checks in flights
+**Lobster upgrades your OpenClaw setup with a dedicated hardware device:**
+
+- 🔌 Plug & play: Plug in, connect WiFi, then talk to it — it's that easy
+- 🕓 24/7: It has its own computer and always runs
+- 🛡️ Secure by design: It has its own browser & file systems and never touches yours
+- 🔒 Private by default: Your data never leaves your Lobster device
+
+**OpenClaw runs on Lobster, so you get all the things you love about OpenClaw:**
+
+- 📱 Any chat app: Talk to it on WhatsApp, Telegram, Discord, Slack, or iMessage
+- 🧠 Persistent memory: It remembers your conversations and becomes uniquely yours
+- 🧩 Skills & plugins: Extend with community skills or build your own
+- 💪 AI that actually does things: Handles your emails, manages your calendar, checks in flights
 
 <img src="https://github.com/eternalai-org/lobsters/raw/main/lobster.gif">
 
