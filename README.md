@@ -14,17 +14,17 @@ Lobster is the best of both worlds. It's a dedicated computer for OpenClaw — w
 
 **Lobster upgrades your OpenClaw setup with a dedicated hardware device:**
 
-- 🔌 Plug & play: Plug in, connect WiFi, then talk to it — it's that easy
-- 🕓 24/7: It has its own computer and always runs
-- 🛡️ Secure by design: It has its own browser & file systems and never touches yours
-- 🔒 Private by default: Your data never leaves your Lobster device
+- **🔌 Plug & play:** Plug in, connect WiFi, then talk to it — it's that easy
+- **🕓 24/7:** It has its own computer and always runs
+- **🛡️ Secure by design:** It has its own browser & file systems and never touches yours
+- **🔒 Private by default:** Your data never leaves your Lobster device
 
 **OpenClaw runs on Lobster, so you get all the things you love about OpenClaw:**
 
-- 📱 Any chat app: Talk to it on WhatsApp, Telegram, Discord, Slack, or iMessage
-- 🧠 Persistent memory: It remembers your conversations and becomes uniquely yours
-- 🧩 Skills & plugins: Extend with community skills or build your own
-- 💪 AI that actually does things: Handles your emails, manages your calendar, checks in flights
+- **📱 Any chat app:** Talk to it on WhatsApp, Telegram, Discord, Slack, or iMessage
+- **🧠 Persistent memory:** It remembers your conversations and becomes uniquely yours
+- **🧩 Skills & plugins:** Extend with community skills or build your own
+- **💪 AI that actually does things:** Handles your emails, manages your calendar, checks in flights
 
 ![block2-lobster](https://github.com/user-attachments/assets/82a6616b-e8e0-46a5-9486-165360741661)
 
@@ -67,7 +67,7 @@ Lobster is secure by design.
 
 It has its own computer, its browser to browse the web, and its own file system to run shell commands. It never touches your computer and your data.
 
-<img width="1120" height="1080" alt="tech-2" src="https://github.com/user-attachments/assets/7fcfdd90-4dac-4bf0-a862-cc85934f62c0" />
+![slide 16_9-4](https://github.com/user-attachments/assets/cd4f298d-5a7b-4eec-8004-80cc24bf6ae4)
 
 ## Specs
 
@@ -87,3 +87,4 @@ For advanced users, we recommend to build a dedicated Nvidia box that can run lo
 
 At Eternal AI, we set up our own Nvidia boxes. Happy to open source our Nvidia box setup too if there is enough interest.
 
+<img width="1120" height="1080" alt="tech-2" src="https://github.com/user-attachments/assets/7fcfdd90-4dac-4bf0-a862-cc85934f62c0" />
