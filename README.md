@@ -1,12 +1,14 @@
-# The open source OpenClaw hardware device
+# Lobster: The Agentic Computer
 
-We ❤️ OpenClaw. But no easy way exists to run OpenClaw safely. So we build [Lobster](https://eternalai.org/lobster) —  a beautiful, affordable, and secure way to run OpenClaw at home (and at work too!).
+## The open source OpenClaw hardware device
+
+We ❤️ OpenClaw. But no easy way exists to run OpenClaw safely. So we built [Lobster](https://eternalai.org/lobster) —  a beautiful, affordable, and secure device to run OpenClaw at home (and at work too!).
 
 **Why Lobster?**
 
-Running OpenClaw on cloud services means your data lives on someone's server. Running OpenClaw on your personal computer means OpenClaw has access to your browser and files — that's a security risk. 
+Running OpenClaw on cloud services means your data lives on someone else's server. Running OpenClaw on your personal computer means OpenClaw has access to your browser and files — that's a security risk. 
 
-Lobster is the best of both worlds. It's a dedicated computer for OpenClaw. Your data stays private. Your personal computer stays safe.
+Lobster is the best of both worlds. It's a dedicated computer for OpenClaw — with its own browser and file system. Your data stays private. Your personal computer stays safe.
 
 **Lobster upgrades your OpenClaw setup with a dedicated hardware device:**
 
